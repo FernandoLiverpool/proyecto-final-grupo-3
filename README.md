@@ -15,7 +15,7 @@
 |Javier        | PUSH Y COMENTARIOS |
 |Marco         | DOCUMENTADOR       |
 |José          | --------------     |
-|Cinthya       |  PROGRAMADOR       |
+|Cinthya       |  DOCUMENTADOR       |
 |Alberto       | --------------     |
 |Luis          | --------------     |
 |Gilberto      | --------------     |
