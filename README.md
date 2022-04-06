@@ -16,7 +16,7 @@
 |Marco         | DOCUMENTADOR       |
 |José Carlos   | PROGRAMADOR        |
 |Cinthya       |  DOCUMENTADOR      |
-|Alberto       | --------------     |
+|Alberto       | DOCUMENTADOR       |
 |Luis          | --------------     |
 |Gilberto      | --------------     |
 |Fernando      | LIDER              |
