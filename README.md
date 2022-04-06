@@ -14,8 +14,8 @@
 |Luis          | PROGRAMADOR        |
 |Javier        | PUSH Y COMENTARIOS |
 |Marco         | DOCUMENTADOR       |
-|José          | --------------     |
-|Cinthya       |  DOCUMENTADOR       |
+|José Carlos   | PROGRAMADOR        |
+|Cinthya       |  DOCUMENTADOR      |
 |Alberto       | --------------     |
 |Luis          | --------------     |
 |Gilberto      | --------------     |
