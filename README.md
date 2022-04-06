@@ -47,7 +47,7 @@
 
 
 ## Imagen de carpetas con archivos no vacios
-# Evidencia  de las carpetas con archivos no vacios como prueba
+# Evidencia  de las carpetas con archivos no vacios como prueba:
 <img src="Imagenes/Evidencia_Listado_No Vacios.PNG" width="800">
 
 <img src="Imagenes/Evidencia_Listado_No Vacios_2.PNG" width="800">
