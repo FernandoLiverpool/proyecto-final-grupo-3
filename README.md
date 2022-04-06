@@ -6,8 +6,8 @@
 
 |INTREGRANTES  | PARTICIPACIÓN  | 
 |------------- | -------------- |
-|Carlos        | -------------- |
-|Mike          | PROGRAMADOR |
+|Carlos        | PROGRAMADOR    |
+|Mike          | PROGRAMADOR    |
 |Valente       | -------------- |
 |Jorge         | -------------- |
 |Daniela       | -------------- |
