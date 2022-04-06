@@ -41,13 +41,17 @@
 
 
 
-##Imagen de carpetas
-#Evidencia  de las 100 carpetas generadas
+## Imagen de carpetas
+# Evidencia  de las 100 carpetas generadas
 <img src="Imagenes/prueba1.PNG" width="800">
 
 
-##Imagen de carpetas con archivos no vacios
-#Evidencia  de las carpetas con archivos no vacios
+## Imagen de carpetas con archivos no vacios
+# Evidencia  de las carpetas con archivos no vacios como prueba
 <img src="Imagenes/Evidencia_Listado_No Vacios.PNG" width="800">
 
 <img src="Imagenes/Evidencia_Listado_No Vacios_2.PNG" width="800">
+
+
+## Evidencia asignacion de Buckets por Grupo
+<img src="Imagenes/Evidencia_Lideres.PNG" width="800">
