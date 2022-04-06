@@ -4,22 +4,22 @@
 
 
 
-|INTREGRANTES  | PARTICIPACIÓN  | 
-|------------- | -------------- |
-|Carlos        | PROGRAMADOR    |
-|Mike          | PROGRAMADOR    |
-|Valente       | DOCUMENTADOR |
-|Jorge         | -------------- |
-|Daniela       | PROGRAMADOR    |
-|Luis          | PROGRAMADOR    |
-|Javier        | -------------- |
-|Marco         | DOCUMENTADOR   |
-|José          | -------------- |
-|Cinthya       |  PROGRAMADOR   |
-|Alberto       | -------------- |
-|Luis          | -------------- |
-|Gilberto      | -------------- |
-|Fernando      | LIDER          |
+|INTREGRANTES  | PARTICIPACIÓN      | 
+|------------- | --------------     |
+|Carlos        | PROGRAMADOR        |
+|Mike          | PROGRAMADOR        |
+|Valente       | DOCUMENTADOR       |
+|Jorge         | --------------     |
+|Daniela       | PROGRAMADOR        |
+|Luis          | PROGRAMADOR        |
+|Javier        | PUSH Y COMENTARIOS |
+|Marco         | DOCUMENTADOR       |
+|José          | --------------     |
+|Cinthya       |  PROGRAMADOR       |
+|Alberto       | --------------     |
+|Luis          | --------------     |
+|Gilberto      | --------------     |
+|Fernando      | LIDER              |
 
 ## Documentación 
 
