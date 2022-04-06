@@ -9,7 +9,7 @@
 |Carlos        | PROGRAMADOR        |
 |Mike          | PROGRAMADOR        |
 |Valente       | DOCUMENTADOR       |
-|Jorge         | --------------     |
+|Jorge         | PROGRAMADOR        |
 |Daniela       | PROGRAMADOR        |
 |Luis          | PROGRAMADOR        |
 |Javier        | PUSH Y COMENTARIOS |
