@@ -12,10 +12,10 @@
 |Jorge         | PROGRAMADOR        |
 |Daniela       | PROGRAMADOR        |
 |Luis          | PROGRAMADOR        |
-|Javier        | PUSH Y COMENTARIOS |
+|Javier        | DOCUMENTADOR       |
 |Marco         | DOCUMENTADOR       |
 |José Carlos   | PROGRAMADOR        |
-|Cinthya       |  DOCUMENTADOR      |
+|Cinthya       | DOCUMENTADOR       |
 |Alberto       | DOCUMENTADOR       |
 |Luis          | --------------     |
 |Gilberto      | --------------     |
@@ -46,5 +46,8 @@
 <img src="Imagenes/prueba1.PNG" width="800">
 
 
+##Imagen de carpetas con archivos no vacios
+#Evidencia  de las carpetas con archivos no vacios
+<img src="Imagenes/Evidencia_Listado_No Vacios.PNG" width="800">
 
-
+<img src="Imagenes/Evidencia_Listado_No Vacios_2.PNG" width="800">
