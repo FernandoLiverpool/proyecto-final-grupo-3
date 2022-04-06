@@ -10,7 +10,7 @@
 |Mike          | PROGRAMADOR    |
 |Valente       | -------------- |
 |Jorge         | -------------- |
-|Daniela       | -------------- |
+|Daniela       | PROGRAMADOR    |
 |Fernando      | -------------- |
 |Luis          | -------------- |
 |Javier        | -------------- |
@@ -20,3 +20,24 @@
 |Alberto       | -------------- |
 |Luis          | -------------- |
 |Gilberto      | -------------- |
+
+## Documentación 
+
+
+
+
+
+
+
+
+
+
+
+
+> #### **Evidencia de trabajo en equipo** :film_strip: [Evidencia, por favor da clic `aquí`.](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzGmvnzQrwKRjNdzRqKwsCkBKvSL?projector=1) :film_strip:
+
+<!-- Este deberia ser el video -->
+<img src="Imagenes/v1.jpg" width="800">
+
+
+
