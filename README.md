@@ -17,7 +17,7 @@
 |José Carlos   | PROGRAMADOR        |
 |Cinthya       | DOCUMENTADOR       |
 |Alberto       | DOCUMENTADOR       |
-|Luis          | --------------     |
+|Luis          | DOCUMENTADOR       |
 |Gilberto      | DOCUMENTADOR       |
 |Fernando      | LIDER              |
 
@@ -55,3 +55,7 @@
 
 ## Evidencia asignacion de Buckets por Grupo
 <img src="Imagenes/Evidencia_Lideres.PNG" width="800">
+
+
+## Comentario:
+De forma general se trabajó bien en el equipo, con la participación y conocimiento de los integrantes fue posible complementar de buena forma el script para cumplir con el objetivo. Agradezco mucho el apoyo de todos los integrantes del grupo ya que a pesar de las actividades del día a día fue posible completar este proyecto final.
