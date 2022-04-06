@@ -18,7 +18,7 @@
 |Cinthya       | DOCUMENTADOR       |
 |Alberto       | DOCUMENTADOR       |
 |Luis          | --------------     |
-|Gilberto      | --------------     |
+|Gilberto      | DOCUMENTADOR       |
 |Fernando      | LIDER              |
 
 ## Documentación 
