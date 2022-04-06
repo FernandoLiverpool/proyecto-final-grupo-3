@@ -11,7 +11,6 @@
 |Valente       | -------------- |
 |Jorge         | -------------- |
 |Daniela       | PROGRAMADOR    |
-|Fernando      | -------------- |
 |Luis          | -------------- |
 |Javier        | -------------- |
 |Marco         | DOCUMENTADOR   |
@@ -20,6 +19,7 @@
 |Alberto       | -------------- |
 |Luis          | -------------- |
 |Gilberto      | -------------- |
+|Fernando      | LIDER          |
 
 ## Documentación 
 
