@@ -41,3 +41,10 @@
 
 
 
+##Imagen de carpetas
+#Evidencia  de las 100 carpetas generadas
+<img src="Imagenes/prueba1.PNG" width="800">
+
+
+
+
